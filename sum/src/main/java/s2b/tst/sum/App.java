@@ -15,6 +15,5 @@ public class App{
     	System.out.printf("B= %f\n",b);
     	System.out.printf("Resposta=%f",r);
     	
-        System.out.println( "Hello World!" );
     }
 }
